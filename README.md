@@ -20,7 +20,7 @@ Analisis yang dilakukan meliputi:
 submission/
 ├── dashboard/
 │   ├── dashboard.py          # Aplikasi Streamlit
-│   └── requirements.txt      # Library untuk dashboard
+│   └── main_data.csv         
 ├── data/
 │   ├── day.csv               # Dataset harian
 │   └── hour.csv              # Dataset per jam
